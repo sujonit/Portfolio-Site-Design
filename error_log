@@ -1,0 +1,20 @@
+[11-Aug-2025 06:21:41 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:21:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/malwhnaa/testing.malwareremoval.us/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:21:52 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:21:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/malwhnaa/testing.malwareremoval.us/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:22:13 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:22:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/malwhnaa/testing.malwareremoval.us/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:30:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
+[11-Aug-2025 06:30:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/malwhnaa/testing.malwareremoval.us/contact.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/malwhnaa/testing.malwareremoval.us/contact.php on line 5
